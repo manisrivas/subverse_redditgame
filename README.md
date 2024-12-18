@@ -1,4 +1,4 @@
-# Sliding Puzzle Game - Subverse
+# Subverse - Sliding Puzzle Game 
 
 Welcome to **Subverse**, a sliding puzzle game where users can play, challenge others, and track their best times. The game offers three difficulty levels: Easy (3x3 grid), Medium (4x4 grid), and Hard (5x5 grid). Players can solve puzzles, challenge others to beat their moves, and view their leaderboard scores.
 
